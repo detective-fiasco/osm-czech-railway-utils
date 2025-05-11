@@ -1,6 +1,6 @@
 # Osm Czech Railway Utils
 
-The following are links to different visualizations of czech railway data in osm
+The following are links to different visualizations of czech railway data in OpenStreetMap.
 
 - [Max speed](https://openstreetbrowser.org/#map=15/49.7477/13.4026&basemap=osm-mapnik&categories=custom/55506221bd6a590d8ebbcdfb62393828) - Shows the actual max speed of each way
 - [Rail usage & numbers](https://openstreetbrowser.org/#map=17/49.74883/13.39795&basemap=osm-mapnik&categories=custom/7cd46715166904a7dd379304906b1aa3) - Shows the usages and track numbers 

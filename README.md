@@ -3,6 +3,7 @@
 The following are links to different visualizations of czech railway data in OpenStreetMap using OpenStreetBrowser.
 
 - [Czech signals](https://openstreetbrowser.org/#map=14/49.7759/13.5221&basemap=hot&categories=custom/d489fc1c1463352a6159941529e8c671) - Visualization of czech railway signals.
+- [Signal tagging variants](https://overpass-turbo.eu/s/2j0V) - Usage comparison of different types of czech railway signal tagging.
 
 
 - [Max speed](https://openstreetbrowser.org/#map=15/49.7477/13.4026&basemap=osm-mapnik&categories=custom/55506221bd6a590d8ebbcdfb62393828) - Shows the actual max speed of each way.

@@ -9,7 +9,7 @@ The following are links to different visualizations of czech railway data in Ope
 - [Wrong or missing keys on railway=rail](https://openstreetbrowser.org/#map=18/49.77671/13.50262&basemap=osm-mapnik&categories=custom/473492c350a641c2689a3c248ac98e3c) - Basic validation for each way, lists all the errors.
 - [Trolleybus wires](https://openstreetbrowser.org/#map=12/49.7589/13.4257&basemap=osm-mapnik&categories=custom/dd834f56f25d4c53c847867a5e01b0d0) - Visualization of the `trolley_wire` key.
 
-## [Signal tagging variants](https://overpass-turbo.eu/s/2oFW)
+## [Signal tagging variants](https://overpass-turbo.eu/s/2oFX)
 Usage comparison of different types of czech railway signal tagging.
 - Blue `CZ`
 - Green `CZ-D1:` with correct signal name

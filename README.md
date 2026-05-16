@@ -11,6 +11,8 @@ Usage comparison of different types of czech railway signal tagging.
 - Purple has a `note`
 - Pink has `ref`
 
+## [A fork of the iD editor customized for signal tagging](https://ormcz.github.io/iD)
+
 ## Links to visualizations using OpenStreetBrowser.
 
 - [Czech signals](https://openstreetbrowser.org/#map=14/49.7759/13.5221&basemap=hot&categories=custom/d489fc1c1463352a6159941529e8c671) - Visualization of czech railway signals.
